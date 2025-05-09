@@ -6,4 +6,8 @@ Or is it?
 
 Is there anybody out there? Alice is there.
 
+<<<<<<< HEAD
 Bob is clever.
+=======
+Bob is very dumb.
+>>>>>>> cf630a16c643c4c047b03bdd7ca6ce4892facf0c
